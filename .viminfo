@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1686723013,,"wq!"
+|2,0,1686723316,,"wq!"
 
 # Search String History (newest to oldest):
 
@@ -25,12 +25,20 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/mun2.txt
-|4,48,2,3,1686723013,"~/mun2.txt"
-'1  2  11  ~/mun1.txt
-|4,49,2,11,1686722741,"~/mun1.txt"
+'0  6  0  ~/mun2.txt
+|4,48,6,0,1686723316,"~/mun2.txt"
+'1  1  15  ~/mun2.txt
+|4,49,1,15,1686723013,"~/mun2.txt"
+'2  2  3  ~/mun2.txt
+|4,50,2,3,1686723013,"~/mun2.txt"
+'3  2  11  ~/mun1.txt
+|4,51,2,11,1686722741,"~/mun1.txt"
 
 # Jumplist (newest first):
+-'  6  0  ~/mun2.txt
+|4,39,6,0,1686723316,"~/mun2.txt"
+-'  1  0  ~/mun2.txt
+|4,39,1,0,1686723300,"~/mun2.txt"
 -'  2  3  ~/mun2.txt
 |4,39,2,3,1686723013,"~/mun2.txt"
 -'  1  0  ~/mun2.txt
@@ -39,6 +47,14 @@
 |4,39,2,11,1686722741,"~/mun1.txt"
 -'  2  11  ~/mun1.txt
 |4,39,2,11,1686722741,"~/mun1.txt"
+-'  2  11  ~/mun1.txt
+|4,39,2,11,1686722741,"~/mun1.txt"
+-'  2  11  ~/mun1.txt
+|4,39,2,11,1686722741,"~/mun1.txt"
+-'  1  0  ~/mun1.txt
+|4,39,1,0,1686722725,"~/mun1.txt"
+-'  1  0  ~/mun1.txt
+|4,39,1,0,1686722725,"~/mun1.txt"
 -'  1  0  ~/mun1.txt
 |4,39,1,0,1686722725,"~/mun1.txt"
 -'  1  0  ~/mun1.txt
@@ -47,11 +63,13 @@
 # History of marks within files (newest to oldest):
 
 > ~/mun2.txt
-	*	1686723009	0
-	"	2	3
-	^	2	4
-	.	2	3
-	+	2	3
+	*	1686723312	0
+	"	6	0
+	^	6	1
+	.	6	0
+	+	1	11
+	+	2	0
+	+	6	0
 
 > ~/mun1.txt
 	*	1686722736	0
